@@ -1,6 +1,7 @@
 [gd_scene load_steps=2 format=3 uid="uid://cr8hww5mr2c1q"]
 
-[ext_resource type="Script" path="res://Main.gd" id="1_0"]
+codex/fix-errors-in-game-execution
+[ext_resource type="Script" path="res://main.gd" id="1"]
 
 [node name="Main" type="Node2D"]
-script = ExtResource("1_0")
+script = ExtResource("1")
